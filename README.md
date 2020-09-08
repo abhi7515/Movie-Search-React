@@ -14,3 +14,4 @@ You will also see any lint errors in the console.
 
 ![Alt Text](snaps/1.png?raw=true "Title")
 ![Alt Text](snaps/2.png?raw=true "Title")
+![Alt Text](snaps/3.png?raw=true "Title")
