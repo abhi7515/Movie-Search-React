@@ -10,7 +10,6 @@ function Search ({ handleInput, search }) {
 				onChange={handleInput}
 				onKeyPress={search}
 			/>
-			<button>LOG IN</button>
 		</section>
 	)
 }
