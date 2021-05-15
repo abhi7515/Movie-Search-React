@@ -6,7 +6,7 @@
 
 body {
 	font-family: 'montserrat', sans-serif;
-	background-color: #223343;
+	background-color: #28282B;
 }
 
 header {
@@ -57,6 +57,7 @@ section {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 0px -15px;
+	background-color: #28282B;
 }
 
 .results .result {
@@ -94,7 +95,7 @@ section {
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background-color: #445565;
+	background-color: #28282B;
 
 	overflow-y: scroll;
 }
@@ -144,7 +145,7 @@ section {
 	padding: 15px 30px;
 	font-size: 18px;
 	font-weight: 700;
-
+    margin-right: 1vw;
 	background: #4484C4;
 	color: #FFF;
 	border-radius: 8px;
